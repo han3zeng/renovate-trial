@@ -1,0 +1,25 @@
+{
+  "name": "renovate-trial",
+  "version": "1.0.0",
+  "description": "The package is for testing renovate ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/han3zeng/renovate-trial.git"
+  },
+  "engines": {
+    "node": "^16"
+  },
+  "author": "han3zeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/han3zeng/renovate-trial/issues"
+  },
+  "homepage": "https://github.com/han3zeng/renovate-trial#readme",
+  "dependencies": {
+    "nested-obsolete-dependencies": "^1.0.4"
+  }
+}
