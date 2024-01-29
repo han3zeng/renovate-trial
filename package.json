@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/han3zeng/renovate-trial#readme",
   "dependencies": {
+    "capture-website": "^4.1.0",
     "nested-obsolete-dependencies": "^1.0.4"
   },
   "devDependencies": {

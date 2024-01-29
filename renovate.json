@@ -1,3 +1,10 @@
 {
+    "packageRules": [
+        {
+            "groupName": "patch minor dependencies",
+            "matchUpdateTypes": ["minor", "patch"],
+            "matchCurrentVersion": "!/^0/"
+        }
+    ],
     "constraintsFiltering": "strict"
 }
