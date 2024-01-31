@@ -11,7 +11,7 @@
     "url": "git+https://github.com/han3zeng/renovate-trial.git"
   },
   "engines": {
-    "node": "^16"
+    "node": "^20.0.0"
   },
   "author": "han3zeng",
   "license": "MIT",
